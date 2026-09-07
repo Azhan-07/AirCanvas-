@@ -43,7 +43,7 @@ Draw in the air using hand gestures with just your webcam! No mouse, no touchscr
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/air-canvas.git
+git clone https://github.com/Azhan-07/air-canvas.git
 cd air-canvas
 
 # Install dependencies
